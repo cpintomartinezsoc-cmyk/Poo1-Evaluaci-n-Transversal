@@ -1,0 +1,5 @@
+P001;Tour Saltos del Petrohué;25000
+P002;Ruta Gastronómica Puerto Varas;32000
+P003;Paseo Lago Llanquihue;28000
+P004;Excursión Volcán Osorno;45000
+P005;Tour Frutillar;22000
