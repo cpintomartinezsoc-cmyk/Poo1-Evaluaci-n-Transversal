@@ -1,7 +1,7 @@
 <img width="488" height="157" alt="image" src="https://github.com/user-attachments/assets/f80ca68b-059b-4ed7-8500-7e1562cc24f6" /><br><br>
 # 🧠 Evaluación Final – Desarrollo Orientado a Objetos I
 
-## 👤
+## 👤 DATOS PERSONALES
 
 **Nombre completo:** Camilo Pinto
 
@@ -186,7 +186,7 @@ Excepción personalizada utilizada para validar la creación de objetos Rut.
 2.
 
 ```bash
-git clone https://github.com/USUARIO/LlanquihueTourFinal.git
+git clone https://github.com/cpintomartinezsoc-cmyk/Poo1-Evaluaci-n-Transversal.git
 ```
 
 3. Abrir el proyecto en IntelliJ IDEA.
@@ -232,6 +232,6 @@ Este proyecto integra los contenidos desarrollados durante toda la asignatura de
 
 **Repositorio GitHub:**
 
-https://github.com/USUARIO/LlanquihueTourFinal
+https://github.com/cpintomartinezsoc-cmyk/Poo1-Evaluaci-n-Transversal.git
 
-**Fecha de entrega:** [Completar]
+**Fecha de entrega:** [19/07/2026]
