@@ -75,8 +75,13 @@ public class Main {
             System.out.println("===== PERSONAS =====");
             gestor.mostrarPersonas();
 
-            ArrayList<Producto> productos =
-                    LectorArchivos.leerProductos("src/main/resources/productos.txt");
+            ArrayList<Producto> productos = new ArrayList<>();
+
+            productos.add(new Producto("P001","Tour Saltos del Petrohué",25000));
+            productos.add(new Producto("P002","Ruta Gastronómica Puerto Varas",32000));
+            productos.add(new Producto("P003","Paseo Lago Llanquihue",28000));
+            productos.add(new Producto("P004","Excursión Volcán Osorno",45000));
+            productos.add(new Producto("P005","Tour Frutillar",22000));
 
             System.out.println("\nProductos cargados: " + productos.size());
 
